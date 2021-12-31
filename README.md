@@ -1,23 +1,12 @@
-<h1>Windows To Go Assistant</h1>
-<h2>Description of Windows To Go(WTG)</h2>
+# Windows to Assistant 制作随身系统
 
-"Windows To Go(WTG)" is a technology originally provided by Microsoft.
-It allows you to fully install Windows on portable devices such as USB flash drives, portable hard drives, etc.,
- and can run directly on different computer hardware, so that the system can be carried with you!
-It's not a WinPE, nor a simplified version, but a complete Windows operating system, which is almost the same
-as a normal installation.
+其实在Windows的企业版中也提供了带UI的windows to go的操作功能，但很多人使用的家庭版，并且官版的操作也不太方便，所以使用Windows to Assistant是一个好的解决方案，默认支持在mac上运行。
 
-<h2>About Windows To Go Assistant(WTGA)</h2>
-The Windows To Go Assistant(WTGA) provides a convenient and quick method to deploy Windows To Go on USB devices. Meanwhile, our community forum 
-can provide effective technical support.
-
-<h3>Motivation:  </h3>
-Initially, there is no GUI tool to deploy WTG, the only way is to use Command Line until the the official WTG creation tool was built in the Enterprise edition of Windows.
-The official tool is simpliy and stable enough, but it lacks some custom settings. Also, there are some portable devices that do not compatible with it.
-
-<h2>Community Forum:</h2>
-Luobotou IT Forum(Chinese) : https://bbs.luobotou.org/
-
-
-
+Windows的描述（WTG） “Windows Go（WTG）”是Microsoft最初提供的技术。 
+它允许您在便携式设备上完全安装Windows，例如USB闪存驱动器，便携式硬盘驱动器等， 并且可以直接在不同的计算机硬件上运行，以便系统可以随身携带！ 它不是一个winpe，也不是简化的版本，而是一个完整的Windows操作系统，几乎是一样的 作为正常安装。 
+关于Windows to Go Assistant（WTGA） Windows To Assistant（WTGA）提供了一种方便快捷的方法来部署Windows以进行USB设备。
+同时，我们的社区论坛 可以提供有效的技术支持。 
+动机： 最初，没有GUI工具可以部署WTG，唯一的方法是使用命令行，直到官方WTG创建工具内置在Windows的企业版中。 官方工具足以稳定，但它缺少一些自定义设置。
+此外，还有一些与其兼容的便携式设备。 
+社区论坛： Luobotou IT论坛（中文）：https：//bbs.luobotou.org/
 
